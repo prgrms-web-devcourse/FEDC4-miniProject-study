@@ -11,3 +11,8 @@ ex)
 이찬   
 https://github.com/1eecan/miniProject_weatherman  
 기상청에서 날씨 정보를 받아 필요한 준비물등을 알려주는 프로젝트입니다!☔️
+
+안혜수</br>
+https://github.com/strangesomethings/front </br>
+텍스트형(?) 술래잡기 게임 프로젝트입니다. </br> 
+게임인만큼 진행속도는 좀 느리고 다른 백엔드분과 협업중입니다. 시간 있을때마다 하는중😭 [React 이용]
