@@ -11,3 +11,9 @@ ex)
 이찬   
 https://github.com/1eecan/miniProject_weatherman  
 기상청에서 날씨 정보를 받아 필요한 준비물등을 알려주는 프로젝트입니다!☔️
+
+
+강원지  
+https://github.com/1g2g/Playground  
+(해당 레포지토리 내의 마이월드를 리팩토링할 계획입니다.)    
+윈도우 OS를 브라우저 스타트 페이지로 커스터마이즈한 미니 프로젝트입니다.
