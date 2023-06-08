@@ -37,7 +37,7 @@ https://imb96.github.io/
 미니프로젝트 하고싶은데 아이디어가 없어요 😥  
 
 
-주다현
+주다현 </br>
 https://github.com/judahhh/Waffle-FrontEnd </br>
 next.js와 typescript 로 미니 프로젝트를 하고 싶었으나 아이디어가 없어 해당 프로젝트를 타입스크립트로 마이그레이션 및 리팩토링 할 예정입니다!</br>
 
