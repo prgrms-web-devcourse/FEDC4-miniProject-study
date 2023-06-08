@@ -35,3 +35,7 @@ https://github.com/raaang/BeautySalonCRM
 https://imb96.github.io/
 제 개발 블로그입니다.
 미니프로젝트 하고싶은데 아이디어가 없어요 😥
+
+|이름|프로젝트명|내용|
+|---|---|----|
+|정동환|[Shoppy](https://github.com/DongjaJ/Shoppy)|React를 이용한 쇼핑몰 프로젝트입니다. <br/>파이어베이스로 구글 OAuth, 실시간 데이터 베이스를 사용하고 이미지 서버로 Cloudinary를 사용할 계획입니다.|
