@@ -46,3 +46,8 @@ next.js와 typescript 로 미니 프로젝트를 하고 싶었으나 아이디�
 https://github.com/DongjaJ/Shoppy  
 React를 이용한 쇼핑몰 프로젝트입니다. <br/>파이어베이스로 구글 OAuth, 실시간 데이터 베이스를 사용하고 이미지 서버로 Cloudinary를 사용할 계획입니다.  
 
+
+이범진
+https://github.com/euan-lee/SoundOfTheMind
+재수학원 학생들이 속마음을 잘 표현하지 못하거나 불만사항을 건의하지 못합니다.
+이를 해결하기 위한 프로젝트 입니다.(서버 구축이 어려워서 FIREBASE를 사용하고 REACT 같이 사용할 예정입니다!!)
