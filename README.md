@@ -14,9 +14,9 @@ https://github.com/1eecan/miniProject_weatherman
 
 
 안혜수</br>
-https://github.com/strangesomethings/front </br>
-텍스트형(?) 술래잡기 게임 프로젝트입니다. </br> 
-게임인만큼 진행속도는 좀 느리고 다른 백엔드분과 협업중입니다. 시간 있을때마다 하는중😭 [React 이용]
+https://github.com/suehdn/suehdn.github.io </br>
+개발 블로그 미니프로젝트입니다. </br>
+기존에 다른 프로젝트 진행했는데 변경했습니다!
 
 
 강원지  
