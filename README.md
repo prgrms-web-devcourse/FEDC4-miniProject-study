@@ -29,7 +29,8 @@ https://github.com/1g2g/Playground
 김정호  
 https://github.com/raaang/BeautySalonCRM  
 미용실 고객 관리, 예약, 결제 등을 도와주는 CRM 페이지 제작입니다! </br>
-다른 분들과 진행중이며 많이 시간을 쓰지는 못하지만 틈틈이 진행하도록 하겠습니다!
+다른 분들과 진행중이며 많이 시간을 쓰지는 못하지만 틈틈이 진행하도록 하겠습니다!   
+(제가 작업한 곳은 'frontend' 브랜치의 '/shop', '/moreInfo', '/registerReservation', '/reservation' 경로 부분입니다! 그 밖에도 궁금하신게 있으시면 아무거나 말씀해주세요!
 
 김민재
 https://imb96.github.io/  
